@@ -10,7 +10,7 @@ export default function ContactPage() {
     <>
       <h1 className="text-3xl font-medium tracking-tight">Contact</h1>
       <p className="mt-6 text-lg leading-8">
-        Replace this with a short note on how you like to be reached.
+        Contact me via any channel you like!
       </p>
       <ul className="mt-8 space-y-3 text-lg">
         {site.contact.links.map((link) => (
