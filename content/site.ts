@@ -1,5 +1,5 @@
 export const site = {
-  name: "Your Name",
+  name: "Hayden Opolot",
   role: "Replace this role line with what you do.",
   description:
     "Replace this description. A short line about who you are and what this site is for.",
