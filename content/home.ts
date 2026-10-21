@@ -8,13 +8,13 @@ export type HomeSection = {
 export const homeSections: HomeSection[] = [
   {
     title: "Who I am",
-    body: "Replace this with a few sentences on who you are, where you are based, and what you care about.",
+    body: "Hello. My name is Hayden Opolot and I am from London. I am a founder and aim to be a conoisseur of the great voyage of life. I am highly execution-oriented and prefer to be up than sat. I quite like the intersection of building and strategic thinking.",
     href: "/about",
     linkLabel: "About",
   },
   {
     title: "What I build",
-    body: "Replace this with the kinds of products, experiments, and technical work you spend time on.",
+    body: "I kind of build whatever I think. This also means whatever i dream. I like building things that are tangible, such as companies; which are usually related to things I dream about, usually for a beneficial purpose. I love a great thesis, and the experiments to test and validate, and the exploration of new domains, harnessing the sofware, building the hardware, speaking to the right people. Anything to test the dream. Replace this with the kinds of products, experiments, and technical work you spend time on.",
     href: "/work",
     linkLabel: "Work",
   },
@@ -26,7 +26,7 @@ export const homeSections: HomeSection[] = [
   },
   {
     title: "Current focus",
-    body: "Replace this with what you are building and learning right now.",
+    body: "My current focus is Arcerius. Building an internal and external model which embodies not only itself its cause, but also the purpose of all around me to create the perfect environment. Creating harmony can facilitate the courageous attitudes to flourish. Currently on my whiteboard I also have my target 'consistency.'",
     href: "/now",
     linkLabel: "Now",
   },

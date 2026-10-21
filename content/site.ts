@@ -1,6 +1,6 @@
 export const site = {
   name: "Hayden Opolot",
-  role: "Replace this role line with what you do.",
+  role: "I try and think big.",
   description:
     "Replace this description. A short line about who you are and what this site is for.",
   nav: [

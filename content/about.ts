@@ -10,12 +10,12 @@ export const about = {
   ],
   principles: [
     {
-      title: "Replace with a principle",
-      body: "Replace this with why the principle matters to you.",
+      title: "Smiling",
+      body: "Smiling makes you feel happy. It also makes the person you are speaking to feel happy. Smile and make everyone happy. If it goes wrong, smile. If you feel sad, smile. Smile and make everyone happy.",
     },
     {
-      title: "Replace with a view on the future",
-      body: "Replace this with a belief about where your field is going.",
+      title: "Pro-Humanity",
+      body: "All fields achieve consensus: accessibility will allow other humans to gain economic resources they never once had, and use these economic resources for individual beneficial purpose. We need to make corners of the world accessible. In finance, this means access to capital needs to be widespread. Different jurisdictions retain different economic values for different things, however there are shared imperatives, such as electricity, which provide the foundation to lead in mordern times. This will come in the form of technology, and creativity will be needed to create the ways for a unification of potential. In doing so, we can move onto greater endeavours, such as jupiter, and the physicality of wormholes.",
     },
   ],
   experience: [
