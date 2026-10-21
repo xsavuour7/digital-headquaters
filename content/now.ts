@@ -2,9 +2,8 @@ export const now = {
   updated: "October 2026",
   building: [
     {
-      title: "Now is really important. Always think about 'now' because it is actually all that matters. Now I am building my future.
-              Now I am setting the foundations for my startup. The structures need to be robust. This venture must be sustainable in the long-term. If we are to have any real chance of achieving, and transforming the world of banking - more specifically what it means to be a banker, and the lens at which we serve the economy -  we must assess holistically and realistically, and use these to enforce personal practicality. This does not mean I am a radical enthusiast, I think I just like the express delivery of ideas to reality.",
-      detail: "This platform is still in stealth, I am not at liberty to even disclose the extent of my idea for the sake of capitalism. However what I will state is that 'capitalism' is my best friend in a sense, it is allowing me to focus deeply on the talented people to surround myself with, the competition of me against the behemoth institutions, the resource asymmetry",
+      title: "Now is really important. Always think about 'now' because it is actually all that matters. Now I am building my future. Now I am setting the foundations for my startup. The structures need to be robust. This venture must be sustainable in the long-term. If we are to have any real chance of achieving, and transforming the world of banking - more specifically what it means to be a banker, and the lens at which we serve the economy -  we must assess holistically and realistically, and use these to enforce personal practicality. This does not mean I am a radical enthusiast, I think I just like the express delivery of ideas to reality.",
+      detail: "This platform is still in stealth, I am not at liberty to even disclose the extent of my idea for the sake of capitalism. However what I will state is that 'capitalism' is my best friend in a sense, it is allowing me to focus deeply on the talented people to surround myself with, the competition of me against the behemoth institutions, the resource asymmetry, and it is giving me an innate drive.",
     },
   ],
 
