@@ -22,7 +22,7 @@ export const articles: Article[] = [
     slug: "a-short-note",
     title: "A short note",
     date: "2026-02-01",
-    excerpt: "Replace this excerpt with what the note is about.",
+    excerpt: "A theoretical note.",
     body: [
       "Replace this with the note itself.",
       "Replace this with a closing line.",

@@ -14,9 +14,9 @@ export const workGroups: WorkGroup[] = [
     title: "Agency",
     items: [
       {
-        title: "Role(s): Founding partners.",
+        title: "Role(s): Aliens of extroadinary ability.",
         summary:
-          "If you are an agentic individual, who likes agentic processes, and wants to apply your skills in rigorous environments, join us. We are building the future of finance. I dislike the word finance, so I will use money. We aim to create a new paradigm for how money is circulated through the world. If you are highly ambitious; Have experience in high agency environments; and possess distinct skills, such as academic talent and pedigree, we would love to have you in the team. You will lead, deliver and manage the greatest of challenges.                     A 'founding partner' is a term which I think eradicates the bureaucractic terms which are currently used.",
+          "If you are an agentic individual, who likes agentic processes, and wants to apply your skills in rigorous environments, join us. We are building the future of finance. I dislike the word finance, so I will use money. We aim to create a new paradigm for how money is circulated through the world. If you are highly ambitious; Have experience in high agency environments; and possess distinct skills, such as academic talent and pedigree, we would love to have you in the team. You will lead, deliver and manage the greatest of challenges.",
       },
     ],
   },
