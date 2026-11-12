@@ -19,8 +19,8 @@ export const homeSections: HomeSection[] = [
     linkLabel: "Work",
   },
   {
-    title: "Selected work",
-    body: "Replace this with one or two pieces of work a visitor should remember, starting with VasenVolt.",
+    title: "Selected mind",
+    body: "When someone has a goal. A target. A belief. Why not go all out for it? Why not try hard to achieve, and become?",
     href: "/work",
     linkLabel: "See the work",
   },

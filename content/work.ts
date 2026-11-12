@@ -11,12 +11,17 @@ export type WorkGroup = {
 
 export const workGroups: WorkGroup[] = [
   {
-    title: "VasenVolt",
+    title: "Agency",
     items: [
       {
-        title: "VasenVolt",
+        title: "Role(s): Founding partners.",
         summary:
-          "Replace this with what VasenVolt is, who it is for, and why you are building it.",
+          "If you are an agentic individual, who likes agentic processes, and wants to apply your skills in rigorous environments, you can join Arcerius. We are building the future of finance. I dislike the word finance, so I will use money. We aim to create a new paradigm for how money is circulated through the world.
+           If you:
+              Are highly ambitious.
+              Have experience in high agency environments.
+              Believe in yourself to execute, execute and execute.
+             You can definetely join the team. You will lead, deliver and manage the greatest of challenges.",
       },
     ],
   },
